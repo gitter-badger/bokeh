@@ -1,5 +1,6 @@
 Bokeh 
 =====
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jfosorio/bokeh?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <table>
 <tr>
